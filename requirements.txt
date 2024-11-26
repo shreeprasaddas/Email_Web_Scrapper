@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+selenium
+pandas
+urllib3
+html5lib
